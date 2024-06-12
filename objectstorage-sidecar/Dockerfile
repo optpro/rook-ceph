@@ -1,1 +1,1 @@
-FROM 
+FROM gcr.io/k8s-staging-sig-storage/objectstorage-sidecar/objectstorage-sidecar:v20230130-v0.1.0-24-gc0cf995
