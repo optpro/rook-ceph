@@ -1,0 +1,1 @@
+FROM quay.io/ceph/cosi:v0.1.1
